@@ -1,0 +1,12 @@
+﻿<style>
+
+</style>
+
+<h1>The Internet Explorers</h1>
+
+<a href="https://docs.google.com/document/d/1e8MjDvd25jj9M5_1D0XJaOppx_ft6UMZNjjq0CQPWHk/edit"> Andrew's Bio Page</a>
+<a href="https://docs.google.com/document/d/1G5VyPd7PLgpm-wnYc1y5rHZr59x09loIYok00T8qVus/edit"> Shawn's Bio Page</a>
+<a href="https://docs.google.com/document/d/1_ZJEdbpzrKXxnDh446nLpcEoXXnrhl-KUJswa-Fzm1o/edit"> Lee's Bio Page</a>
+<a href="https://docs.google.com/document/d/1Ls6aLe-lN_kB8fg6NM3cfg_el-w9Sg0pSqCX4hmBDPw/edit"> Christian's Bio Page </a>
+<a href="https://docs.google.com/document/d/1MGp7G1MgsqXJxeN_UyvLtuZDwqQrDCtQ43N0GVOaSOk/edit"> Mike's Bio Page</a>
+<a href="https://docs.google.com/document/d/1RJMOs43KIAHgRDY6B_z6hSiQvte9IuA6pvsXQ9l9c6g/edit">Contact Us</a>
