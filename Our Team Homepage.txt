@@ -1,0 +1,8 @@
+<style>
+
+</style>
+
+<h1>The Internet Explorers</h1>
+
+<a href="D:\BSU\GIMM\GIMM 300\Team Assignment 1\Our Team Website\AndrewBio"> Andrew's Bio Page</a>
+
